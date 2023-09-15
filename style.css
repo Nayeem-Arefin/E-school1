@@ -1,0 +1,59 @@
+/* font links 
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,700;1,700&family=Ubuntu:wght@300&display=swap')
+/*Rubik font details
+font-family: 'Rubik', sans-serif;
+*/
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap');
+/*Common start*/
+ul {
+list-style: none;
+}
+li { 
+display: inline-block;
+ margin-right:10px;}
+body {
+
+
+}
+header {
+
+}
+c.nav{
+
+}
+.logo {
+
+}
+.menu {
+
+
+}
+.menu ul li a{ 
+color: #000000 
+padding: 0 25px; 
+ }
+ .menu ul li a:hover {
+color: #FD511A;
+ }
+ .btn_cm {
+background-color: #21B573;
+ border-radius:33px;
+ font-family: 'Roboto';
+ }
+ .btn_sign {
+padding: 12px 28px;
+ }
+ .btn_cm:hover {
+background-color: #FD511A ;
+ border-radius:33px;
+ display:flex;
+ justify-content:center;
+ align-items: center; 
+ }
+/*Common end*/  
+/*Header starts*/
+
+/*header ends*/
